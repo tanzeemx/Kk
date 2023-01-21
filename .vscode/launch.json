@@ -8,7 +8,7 @@
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build",
+            "preLaunchTask": "watch",
             "launchSettingsProfile": "https",
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/Server/bin/Debug/net7.0/Server.dll",
